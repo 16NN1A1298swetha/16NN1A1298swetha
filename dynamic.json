@@ -1,0 +1,47 @@
+{
+  "Career":{
+    "info":"To Work in an Environment where"
+  },
+  "education":[
+    {
+      "degree":"B.tech(IT)",
+      "Institution":"Vignan nirula",
+      "YOP":"2020",
+      "percentage":"80"
+    },
+    {
+    "degree":"intermidiate",
+    "Institution":"Bhashyam junior college",
+    "YOP":"2016",
+    "percentage":"92"
+  },
+  {
+    "degree":"S.S.C",
+    "Institution":"Bhashyam public school",
+    "YOP":"2014",
+    "percentage":"93"
+  }
+
+
+],
+"Skills":[
+  {
+    "title":"platforms",
+    "content":"windows,Linux"
+
+  },
+  {
+  "title":"programming language",
+  "content":"C,C++,java"
+},
+{
+  "title":"Data base",
+  "content":"mysql"
+}
+
+
+],
+"language":"Telugu,English,Hindhi"
+
+
+}
